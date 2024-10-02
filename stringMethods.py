@@ -5,8 +5,8 @@ fName = input('Enter your first name: ')
 # print(fName.upper())              # Changes the strings to capital letters
 # print(fName.lower)                # Changes the string to small letters
 # print(fName.islower())            # Returns true if the string is in small letter
-# print(fName.replace('R', 'B'))    # Replaces the First char with the second char
-# print(fName.index('c'))           # returns the index of quoted char
+# print(fName.replace('R', 'B'))    # Replaces the First characters with the second characters
+# print(fName.index('c'))           # returns the index of quoted characters
 # print(len(fName))                 # prints the number of characters in a string
 # print(fname.isdigit())            # returns true if all characters in the string are digits
 # print(fname.isalpha())            # returns true if all characters
